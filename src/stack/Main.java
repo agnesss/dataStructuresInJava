@@ -1,3 +1,5 @@
+package stack;
+
 /**
  * Created by UserPC on 11/21/2017.
  */
@@ -6,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
 
         Stack<String> basicStack = new ListStack<String>();
-        // Stack<String> basicStack = new BasicStack<String>(10);
+        // stack.Stack<String> basicStack = new stack.BasicStack<String>(10);
 
 
         basicStack.push("first");

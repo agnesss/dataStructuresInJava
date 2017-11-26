@@ -1,6 +1,6 @@
-/**
- * Created by UserPC on 11/21/2017.
- */
+package stack;
+
+
 public interface Stack<X> {
 
     void push(X elem);

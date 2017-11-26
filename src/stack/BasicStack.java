@@ -1,3 +1,5 @@
+package stack;
+
 public class BasicStack<X> implements Stack<X> {
 
     private X [] elements;
